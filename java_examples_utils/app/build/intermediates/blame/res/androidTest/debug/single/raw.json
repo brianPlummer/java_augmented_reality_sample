@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/minimal_vertex_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/minimal_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/blend_screen_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/grey_scale_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/grey_scale_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/fog_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/fog_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/color_threshold_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/color_threshold_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/sepia_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/vignette_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/vignette_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/blur_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/copy_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/copy_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/raw/blend_add_fragment_shader.glsl",
+        "source": "/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res/raw/blend_add_fragment_shader.glsl"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/brianplummer/code/java_augmented_reality_sample/java_examples_utils/app/src/release/shaders"/></dataSet></merger>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/exploded-aar/java_augmented_reality_sample/java_examples_utils/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6bec376f4e7aa3310eefc06aec895874dbaa3735">
+        <dex dex="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/pre-dexed/debug/java_augmented_reality_sample-java_examples_utils-unspecified_9603e97782607cc6f64f14d4ca9587be463fd4ed.jar" />
+    </item>
+    <item
+        jar="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a442f232c74f43aa6baed9a29cb13941bd10e6a">
+        <dex dex="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/pre-dexed/debug/org.rajawali3d-rajawali-1.0.325_7b0a0f374e585f2bd9730e6402084272d7d6e1ea.jar" />
+    </item>
+    <item
+        jar="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/exploded-aar/tango_support_java_lib/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd50afe5339e307c630d40c297ac74dd483ddd05">
+        <dex dex="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tango_support_java_lib_ea99ced6882fd55cb0db4b205d869991ed26d38f.jar" />
+    </item>
+    <item
+        jar="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/exploded-aar/java_augmented_reality_sample/java_examples_utils/unspecified/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b79234eee9d1a31098df07afdaae00959f98a760">
+        <dex dex="/Users/brianplummer/code/java_augmented_reality_sample/app/build/intermediates/pre-dexed/debug/tango_java_lib_c21c145edc13475610fe0823539fae2799fe5b14.jar" />
+    </item>
+
+</items>
